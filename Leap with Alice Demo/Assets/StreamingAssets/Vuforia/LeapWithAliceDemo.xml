@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="NeptuneSoloTarget" size="1.000000 0.943262" />
+    <ImageTarget name="NeptuneTarget" size="1.000000 1.294118" />
+    <ImageTarget name="Lego" size="100.000000 66.666664" />
+    <ImageTarget name="Neptune_Sheet" size="1.000000 1.463519" />
+  </Tracking>
+</QCARConfig>
