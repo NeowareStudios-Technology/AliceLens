@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A73D1359-C581-70A2-460F-366337FF1E9E}</ProjectGuid>
+    <ProjectGuid>{5CD51ADE-2E3C-AC5C-4261-7B8FD550A44D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scripts\VideoPlaybackController.cs" />
      <Compile Include="Assets\Scripts\VideoPlaybackMenuOptions.cs" />
      <Compile Include="Assets\Scripts\VideoPlaybackTapHandler.cs" />
+     <Compile Include="Assets\Scripts\tapToFocus.cs" />
      <Compile Include="Assets\Vuforia Video Playback\Scripts\VideoPlaybackBehaviour.cs" />
      <Compile Include="Assets\Vuforia Video Playback\Scripts\VideoPlayerHelper.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
@@ -104,6 +105,7 @@
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\LeapWithAliceDemo.xml" />
      <None Include="Assets\Plugins\Android\VuforiaMediaSource\AndroidManifest.xml" />
      <None Include="Assets\Plugins\Android\VuforiaMediaSource\build.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
@@ -119,7 +121,6 @@
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
-     <None Include="Assets\StreamingAssets\Vuforia\LeapWithAliceDemo.xml" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
@@ -142,7 +143,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
- <HintPath>/Users/alfonsomorales/Downloads/HelloAlice-science-worksheet-a81f4b50c352/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>/Users/alfonsomorales/Downloads/Leap with Alice Demo/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

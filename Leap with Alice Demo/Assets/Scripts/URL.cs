@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class URL : MonoBehaviour {
 
-	public void openTechandBeerFacebookPage ()
+	public void openLWAFacebookPage ()
 	{
 		float startTime;
 		startTime = Time.timeSinceLevelLoad;
@@ -50,6 +50,31 @@ public class URL : MonoBehaviour {
 		Application.OpenURL ("https://www.youtube.com/watch?v=VM22MyLaRSs");
 	}
 
+
+
+
+	public void SendEmail ()
+
+    {
+
+    string email = "info@leapwithalice.io";
+
+    string subject = MyEscapeURL("Leap With Alice ");
+
+    string body = MyEscapeURL(" ");
+     
+
+    Application.OpenURL ("mailto:" + email + "?subject=" + subject + "&body=" + body);
+
+    }  
+
+    string MyEscapeURL (string url)
+
+    {
+
+    return WWW.EscapeURL(url).Replace("+","%20");
+
+    }
 
 
 

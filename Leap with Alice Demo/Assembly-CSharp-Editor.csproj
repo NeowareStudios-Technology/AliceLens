@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AB0F2A29-7BED-07C5-F8A7-98EB1E0C78ED}</ProjectGuid>
+    <ProjectGuid>{98FC712D-0E5B-EA18-7C4C-0272870CA0F9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -59,6 +59,7 @@
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\LeapWithAliceDemo.xml" />
      <None Include="Assets\Plugins\Android\VuforiaMediaSource\AndroidManifest.xml" />
      <None Include="Assets\Plugins\Android\VuforiaMediaSource\build.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
@@ -74,9 +75,8 @@
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
-     <None Include="Assets\StreamingAssets\Vuforia\LeapWithAliceDemo.xml" />
  <Reference Include="Assembly-UnityScript-Editor-firstpass">
- <HintPath>/Users/alfonsomorales/Downloads/HelloAlice-science-worksheet-a81f4b50c352/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll</HintPath>
+ <HintPath>/Users/alfonsomorales/Downloads/Leap with Alice Demo/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
@@ -136,10 +136,10 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions.Editor">
- <HintPath>/Users/alfonsomorales/Downloads/HelloAlice-science-worksheet-a81f4b50c352/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll</HintPath>
+ <HintPath>/Users/alfonsomorales/Downloads/Leap with Alice Demo/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
- <HintPath>/Users/alfonsomorales/Downloads/HelloAlice-science-worksheet-a81f4b50c352/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>/Users/alfonsomorales/Downloads/Leap with Alice Demo/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -150,7 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{A73D1359-C581-70A2-460F-366337FF1E9E}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{5CD51ADE-2E3C-AC5C-4261-7B8FD550A44D}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

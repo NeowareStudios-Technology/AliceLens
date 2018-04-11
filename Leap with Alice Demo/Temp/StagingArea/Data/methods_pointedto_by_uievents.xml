@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="URL">
+			<method name="openSchoolSite2"/>
+			<method name="openLeapWithAliceSite"/>
+			<method name="openSchoolSite1"/>
+			<method name="SendEmail"/>
+		</type>
+	</assembly>
+</linker>
