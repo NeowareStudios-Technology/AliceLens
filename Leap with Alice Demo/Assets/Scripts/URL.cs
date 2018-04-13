@@ -30,9 +30,9 @@ public class URL : MonoBehaviour {
 
 	}
 
-	public void openFoxlioPage ()
+	public void openLWATelegram ()
 	{
-		Application.OpenURL ("http://foxlio.com/");
+		Application.OpenURL ("https://t.me/LeapWithAlice");
 	}
 
 	public void openOkojiPage ()

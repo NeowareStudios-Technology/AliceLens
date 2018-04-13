@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DisableCoaches : MonoBehaviour {
 
-    public string playerPrefsStorageName = "DONT FORGET TO CHANGE THIS";
+    public string playerPrefsStorageName = "Coachmark_Log";
 
 	// Use this for initialization
 	void Start () {
