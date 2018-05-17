@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0c77bfc5a1834dcda53aac2f0e0a05a8
+guid: fff092ec267649a189a8c6ca5971003c
 TextureImporter:
   fileIDToRecycleName:
     8900000: generatedCubemap
@@ -65,7 +65,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
+  - buildTarget: Android
     maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 0
