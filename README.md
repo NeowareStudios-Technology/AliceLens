@@ -1,4 +1,4 @@
-# AliceThinks
+# AliceThinks™
   The AliceThinks™ application is an iOS native build using emerging technologies. These include the Apple Vision and Machine Learning frameworks to identify items. Once done the application will then allow user to tap on the screen to display an AR 3D model of the word specified in the real world space. 
 
 # How It Works
