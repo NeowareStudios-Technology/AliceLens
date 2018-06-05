@@ -1,5 +1,5 @@
 # AliceThinks
-This application is meant to serve as a demo displaying vision and machine learning frameworks to identify items. Once done the application will then translate the word(s) to a user selected language. Both words, original and translated are then spoken through the speaker.
+  The AliceThinks™ application is an iOS native build using emerging technologies. These include the Apple Vision and Machine Learning frameworks to identify items. Once done the application will then allow user to tap on the screen to display an AR 3D model of the word specified in the real world space. 
 
 # How It Works
 
