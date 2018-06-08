@@ -1,5 +1,12 @@
 # AlicesLens™
-  The AliceLens™ application is an iOS native build using emerging technologies. These include the Apple Vision and Machine Learning frameworks to identify items. Once done the application will then allow user to tap on the screen to display an AR 3D model of the word specified in the real world space. 
+  The AliceLens™ application is an iOS & Android build using emerging technologies. Within this application there is a focus on augmented reality using target based tracking. 
+  
+  
+  
+# AliceLens™ Targets
+     In order to experience the augmented reality within the application, please check out this link to download the image targets. Once downloaded then point the AliceLens™ application at the image target.
+   <a href="https://www.dropbox.com/sh/qfm3znk51hxiahv/AADVj2R5X70regY0sAumopdVa?dl=0" title="Image Targets Link"/>Image Targets</a>
+     
 
 # How It Works
 
