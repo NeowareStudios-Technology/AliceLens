@@ -1,4 +1,4 @@
-# AlicesLens™
+# AliceLens™
   The AliceLens™ application is an iOS & Android build using emerging technologies. Within this application there is a focus on augmented reality using target based tracking. 
   
 # AliceLens™ Targets
