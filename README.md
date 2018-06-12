@@ -1,5 +1,5 @@
 # AliceLens™
-  The AliceLens™ application is an iOS & Android build using emerging technologies. Within this application there is a focus on augmented reality using target based tracking. 
+  The AliceLens™ application is an iOS & Android build using emerging technologies. Within this application there is a focus on augmented reality using target based tracking. Through use cases within the application, we show off a new way of learning.
   
 # AliceLens™ Targets
   In order to experience the augmented reality within the application, please check out this link to download the image targets. Once downloaded then point the AliceLens™ application at the image target.
@@ -13,30 +13,24 @@
 
 <a href="https://imgflip.com/gif/2bnjhf"><img src="https://i.imgflip.com/2bnjhf.gif" title="made at imgflip.com"/></a>
 
-**- In the bottom right corner of the app you will notice something called 'Recognition Process'. Here the camera view along with the Machine Learning model will give you the top results for what it believes it is looking at.**
+**- In the bottom left you will see two buttons. One to take you to our website and one for more information on the application.**
 
 <a href="https://imgflip.com/gif/2bnjef"><img src="https://i.imgflip.com/2bnjef.gif" title="made at imgflip.com"/></a>
 
-**- When you are focused on an item you may tap on the screen in the location you feel fit and an augmented 3D label will be placed in that location with the word of the top result as seen in the 'Recognition Process'.**
+**- Grab the targets you downloaded from the dropbox link and point the AliceLens™ at it. Depending on which target you are pointing at you see a few different AR experiences.**
 
 <a href="https://imgflip.com/gif/2bnjgf"><img src="https://i.imgflip.com/2bnjgf.gif" title="made at imgflip.com"/></a>
 
 
 # Technologies Used
 
-### Apple Vision Framework
+### Vuforia
 
-```The Vision framework performs face and face landmark detection, text detection, barcode recognition, image registration, and general feature tracking. Vision also allows the use of custom Core ML models for tasks like classification or object detection.```
+```Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile devices that enables the creation of Augmented Reality applications. It uses Computer Vision technology to recognize and track planar images (Image Targets) and simple 3D objects, such as boxes, in real-time. This image registration capability enables developers to position and orient virtual objects, such as 3D models and other media, in relation to real world images when these are viewed through the camera of a mobile device.```
 
-### Apple Machine Learning Model
+### Unity 3D
 
-```Core ML 2 lets you integrate a broad variety of machine learning model types into your app. In addition to supporting extensive deep learning with over 30 layer types, it also supports standard models such as tree ensembles, SVMs, and generalized linear models. Because it’s built on top of low level technologies like Metal and Accelerate, Core ML seamlessly takes advantage of the CPU and GPU to provide maximum performance and efficiency. You can run machine learning models on the device so data doesn't need to leave the device to be analyzed.```
-
-### Apple AR Kit
-
-```ARKit allows developers to build high-detail AR experiences for iPad and iPhone. Environments captured through the device can have animated 3D virtual text, objects and characters added to them. AR scenes made by one individual are persistent and can be seen by others visiting the location later.```
-
-
+```Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop both three-dimensional and two-dimensional video games and simulations for computers, consoles, and mobile devices.```
 
 
 ## Where Can You Find Us?
