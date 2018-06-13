@@ -306,10 +306,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AutomaticSceneSwitcher.cs" />
+    <Compile Include="Assets\Scripts\ButtonPopup.cs" />
     <Compile Include="Assets\Scripts\CoachesHandler.cs" />
     <Compile Include="Assets\Scripts\DisableCoaches.cs" />
     <Compile Include="Assets\Scripts\Formbutton.cs" />
     <Compile Include="Assets\Scripts\Hubspotapi.cs" />
+    <Compile Include="Assets\Scripts\tapToFocus.cs" />
     <Compile Include="Assets\Scripts\URL.cs" />
     <Compile Include="Assets\Scripts\VuforiaInitializer.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
