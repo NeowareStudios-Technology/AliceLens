@@ -12,8 +12,9 @@ public class Hubspotapi : MonoBehaviour {
     public Text email;
     public Text user;
     public Text country;
-    public Text background;
     public Text responseText;
+    public Toggle beta;
+    private string betaTranscribe;
     
     public void SendForm()
     {
@@ -25,8 +26,11 @@ public class Hubspotapi : MonoBehaviour {
         form.AddField("lastname", last.text);
         form.AddField("what_kind_of_user_", user.text);
         form.AddField("country", country.text);
-        form.AddField("what_is_your_background_in_education_", background.text);
-
+        if (beta.isOn)
+            betaTranscribe = "Yes";
+        else
+            betaTranscribe = "No";
+        form.AddField("do_you_agree_to_privacy_policy_", betaTranscribe);
 
         // Form Variables (from the HubSpot Form Edit Screen)
         int intPortalID = 4555673; //place your portal ID here
