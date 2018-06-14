@@ -9,7 +9,7 @@
 
 # How It Works
 
-**- Once the application is installed on the device the user simply opens the application.**
+**- Once the application is installed on the device the user simply opens the application and completes the one-time signup.**
 
 <a href="https://imgflip.com/gif/2c7itk"><img src="https://i.imgflip.com/2c7itk.gif" title="made at imgflip.com"/></a>
 
