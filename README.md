@@ -15,7 +15,7 @@
 
 **- In the bottom left you will see two buttons. One to take you to our website and one for more information on the application.**
 
-<a href="https://imgflip.com/gif/2bnjef"><img src="https://i.imgflip.com/2bnjef.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2c7ixt"><img src="https://i.imgflip.com/2c7ixt.gif" title="made at imgflip.com"/></a>
 
 **- Grab the targets you downloaded from the dropbox link and point the AliceLens™ at it. Depending on which target you are pointing at you see a few different AR experiences.**
 
