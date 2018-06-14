@@ -1,6 +1,6 @@
 iOS
 PlayerPath?
-/Users/alexchatham/Developer/Unity/builds/ios
+/Users/alfonso/Documents/GitHub/AliceLens iOS Builds/AliceLens™ iOS
 SceneListBegin?
 Assets/Scenes/SplashScene.unity
 Assets/Scenes/FormScene.unity
