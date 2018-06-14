@@ -27,7 +27,13 @@ public class AutomaticSceneSwitcher : MonoBehaviour {
         {
             Destroy(vid);
             UI.SetActive(true);
-            SceneManager.LoadScene("GameScene");
+            AsyncOperation async = SceneManager.LoadSceneAsync("GameScene");
+
+            while (!async.isDone)
+            {
+                yield return null;
+
+            }
         }
     }
 
