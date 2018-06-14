@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MercuryCashonBlack" size="1.000000 0.319336" />
+    <ImageTarget name="Bluebee-Pals-Logo" size="1.000000 0.339394" />
+    <ImageTarget name="BluebeeMainWebsiteImage" size="1.000000 0.485333" />
+    <ImageTarget name="Chatterbuzzonwhite" size="1.000000 0.303704" />
+    <ImageTarget name="Chatterbuzzonblack" size="1.000000 0.303704" />
+    <ImageTarget name="Nemours" size="1.000000 0.571429" />
+    <ImageTarget name="Nemours2" size="1.000000 1.000000" />
+    <ImageTarget name="header-image" size="1.000000 0.734694" />
+    <ImageTarget name="MercuryCashonWhite" size="1.000000 0.228571" />
+    <ImageTarget name="MannyCard2" size="1.000000 0.571975" />
+    <ImageTarget name="AliceWhitePaperCoverNoNumber" size="1.000000 1.293846" />
+    <ImageTarget name="Website_Logo" size="100.000000 72.960587" />
+    <ImageTarget name="UCF_Logo_Pegasus_Text" size="100.000000 61.404526" />
+    <ImageTarget name="UCF_Logo_Text" size="100.000000 76.038017" />
+    <ImageTarget name="Walk" size="100.000000 100.000000" />
+    <ImageTarget name="Think" size="100.000000 100.000000" />
+    <ImageTarget name="Give" size="100.000000 100.000000" />
+    <ImageTarget name="Laugh" size="100.000000 100.000000" />
+    <ImageTarget name="Jump" size="100.000000 100.000000" />
+    <ImageTarget name="Fly" size="100.000000 100.000000" />
+    <ImageTarget name="AliceBusinessCard" size="1.000000 0.689373" />
+    <ImageTarget name="Neptune_C_Image_Only" size="100.000000 48.614319" />
+  </Tracking>
+</QCARConfig>

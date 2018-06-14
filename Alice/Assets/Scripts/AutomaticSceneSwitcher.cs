@@ -6,22 +6,29 @@ using UnityEngine.SceneManagement;
 public class AutomaticSceneSwitcher : MonoBehaviour {
 
     public VideoPlayer vid;
+    public GameObject UI;
 
     public bool GoToForm = false;
-    void Start() { vid.loopPointReached += CheckOver; }
-
-    void CheckOver(UnityEngine.Video.VideoPlayer vp)
+    private void Start()
     {
+        StartCoroutine(WaitAndLoad(7f, "MyScene"));
+    }
+
+    private IEnumerator WaitAndLoad(float value, string scene)
+    {
+        yield return new WaitForSeconds(value);
         print("Video Is Over");
-        if (PlayerPrefs.GetInt("form", 0) == 0 ||GoToForm) { 
+        if (PlayerPrefs.GetInt("form", 0) == 0 || GoToForm)
+        {
             SceneManager.LoadScene("FormScene");
         }
 
         else
         {
+            Destroy(vid);
+            UI.SetActive(true);
             SceneManager.LoadScene("GameScene");
         }
-        
     }
 
 }
