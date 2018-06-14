@@ -11,7 +11,7 @@
 
 **- Once the application is installed on the device the user simply opens the application.**
 
-<a href="https://imgflip.com/gif/2bnjhf"><img src="https://i.imgflip.com/2bnjhf.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2c7itk"><img src="https://i.imgflip.com/2c7itk.gif" title="made at imgflip.com"/></a>
 
 **- In the bottom left you will see two buttons. One to take you to our website and one for more information on the application.**
 
@@ -19,8 +19,7 @@
 
 **- Grab the targets you downloaded from the dropbox link and point the AliceLens™ at it. Depending on which target you are pointing at you see a few different AR experiences.**
 
-<a href="https://imgflip.com/gif/2bnjgf"><img src="https://i.imgflip.com/2bnjgf.gif" title="made at imgflip.com"/></a>
-
+<a href="https://imgflip.com/gif/2c7imr"><img src="https://i.imgflip.com/2c7imr.gif" title="made at imgflip.com"/></a>
 
 # Technologies Used
 
