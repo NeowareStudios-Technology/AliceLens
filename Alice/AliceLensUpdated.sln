@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceLensUpdated", "Assembly-CSharp.csproj", "{0A71F6D2-D27C-0A89-825A-FD00E960D073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceLensUpdated", "Assembly-CSharp-Editor.csproj", "{0B56EDB5-653E-64BB-FA25-2E3A5227C28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A71F6D2-D27C-0A89-825A-FD00E960D073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A71F6D2-D27C-0A89-825A-FD00E960D073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A71F6D2-D27C-0A89-825A-FD00E960D073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A71F6D2-D27C-0A89-825A-FD00E960D073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B56EDB5-653E-64BB-FA25-2E3A5227C28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B56EDB5-653E-64BB-FA25-2E3A5227C28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B56EDB5-653E-64BB-FA25-2E3A5227C28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B56EDB5-653E-64BB-FA25-2E3A5227C28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
