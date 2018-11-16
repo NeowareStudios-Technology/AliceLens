@@ -1,6 +1,6 @@
 iOS
 PlayerPath?
-/Users/leapwithalice/Desktop/aliceLens Test
+/Users/leapwithalice/Documents/LWA Apps/iOS/Alice Lens/aliceLens1.3.2
 SceneListBegin?
 Assets/Scenes/alice Lens.unity
 Assets/Scenes/Hillel.unity
@@ -11,6 +11,7 @@ Assets/Scenes/UCF.unity
 SceneListEnd?
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.SamplesNavigationHandler
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.URL
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Lean.Pool.LeanPooledRigidbody
 486cd95c82d8305219c352c06b776e1f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -29,6 +30,7 @@ a8970068cd07441f039f583025a1c360 Assembly-CSharp.dll:Lean.Touch.LeanFingerDown
 f6637497451c9a030c421de4a1ad5cdb Unity.TextMeshPro.dll:TMPro.TMP_ScrollbarEventHandler
 a9983928dc730652041e898574012ec8 Assembly-CSharp.dll:Lean.Touch.LeanFingerLine
 b14b4630cc47b6e9ea8a644551a6a8cc Unity.TextMeshPro.dll:TMPro.TMP_Text
+e57fe2c133b5d703363f702a3a3b0d69 Assembly-CSharp.dll:.ColorPicker
 53cefe5d98cadefbab750835e70b89c0 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 486cd95c82d8305219c352c06b776e1f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 da2091a04d360891450faf16cdf621f1 UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -224,6 +226,7 @@ c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBe
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.CloudRecoScanLine
 d36eaeeddf69afb68c74882ee151f173 Assembly-CSharp.dll:Lean.Touch.LeanOpenUrl
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.SceneSwitchers
 375cb64e067cfd44941f2e1d3957db77 Assembly-CSharp.dll:.GroundPlaneUI
 f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 17d1418e2e484e1ab69e97fb07920075 Assembly-CSharp.dll:.AboutManager
@@ -289,6 +292,7 @@ e033f131358cea5a0eabf9561e781deb UnityEngine.TestRunner.dll:UnityEngine.TestTool
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.AboutScreen
 cf013dd16cff48004e7f0d0a4d9f7fbb Assembly-CSharp.dll:.FrameQualityMeter
 38cde82a7a8114d6e3aca9c89a711cb9 Assembly-CSharp.dll:Lean.Touch.LeanScale
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.DefaultTrackableEventHandler
 d75dc834c5dec688db75a55a1724c90f UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 486cd95c82d8305219c352c06b776e1f UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
@@ -389,5 +393,3 @@ c1087bf328bbb39eba5a09f26c3b6368 Vuforia.UnityExtensions.dll:Vuforia.MultiTarget
 c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.SceneSwitchers
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.URL

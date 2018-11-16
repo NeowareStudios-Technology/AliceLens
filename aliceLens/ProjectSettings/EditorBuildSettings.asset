@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PolyBlox.unity
+    guid: d6cb3807cda6e42ec94931e70ade2b43
   - enabled: 1
     path: Assets/Scenes/alice Lens.unity
     guid: 52cf498f751c64528ab6a13808b47a9a
@@ -23,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UCF.unity
     guid: 3b549244c6baa48dc97e6a44ea2b9b4e
+  - enabled: 0
+    path: Assets/Scenes/Larry.unity
+    guid: fa804885a08d2432489c9a3a3190ae74
   m_configObjects: {}

@@ -50,7 +50,20 @@ public class URL : MonoBehaviour {
 		Application.OpenURL ("https://www.youtube.com/watch?v=VM22MyLaRSs");
 	}
 
+    public void openSharkVideo()
+    {
+        Application.OpenURL("https://www.youtube.com/watch?v=tfWMwG6aYzQ");
+    }
 
+    public void openSharkFacts()
+    {
+        Application.OpenURL("https://www.natgeokids.com/uk/discover/animals/sea-life/great-white-sharks/");
+    }
+
+    public void openPolyBloxSite()
+    {
+        Application.OpenURL("http://www.thepolyblox.com");
+    }
 
 
 	public void SendEmail ()
@@ -79,6 +92,11 @@ public class URL : MonoBehaviour {
     public void HillelSite()
     {
         Application.OpenURL("https://www.hillelhebrew.org");
+    }
+
+    public void DonateSaltofHeaven()
+    {
+        Application.OpenURL("https://www.paypal.com/donate/?token=wy1po-aV1FWY4-1WybfklZ745HhSC5nHTrp1e5l3hWIg8qGWZXglBMIHTzHPyJiJOO47bG&country.x=US&locale.x=US");
     }
 
     public void UCFSite()

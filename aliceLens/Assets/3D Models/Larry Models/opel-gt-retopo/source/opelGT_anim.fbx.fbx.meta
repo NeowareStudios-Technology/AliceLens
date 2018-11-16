@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 52634a7103ec54c7abe8a17ced51d094
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: brake
+    100004: brakeDisk1
+    100006: brakeDisk1 1
+    100008: controls
+    100010: driverDoor
+    100012: groundPlane
+    100014: headlightsTransform
+    100016: hood
+    100018: lHeadlight
+    100020: lWheelGroup
+    100022: //RootNode
+    100024: passengerDoor
+    100026: rHeadlight
+    100028: rWheelGroup
+    100030: shifter
+    100032: slick1
+    100034: slick2
+    100036: undercarriage
+    100038: wheel
+    100040: wheel1
+    100042: wheel1 1
+    100044: wipers
+    400000: body
+    400002: brake
+    400004: brakeDisk1
+    400006: brakeDisk1 1
+    400008: controls
+    400010: driverDoor
+    400012: groundPlane
+    400014: headlightsTransform
+    400016: hood
+    400018: lHeadlight
+    400020: lWheelGroup
+    400022: //RootNode
+    400024: passengerDoor
+    400026: rHeadlight
+    400028: rWheelGroup
+    400030: shifter
+    400032: slick1
+    400034: slick2
+    400036: undercarriage
+    400038: wheel
+    400040: wheel1
+    400042: wheel1 1
+    400044: wipers
+    2100000: matte
+    2100002: bodyMAT
+    2100004: glass
+    2100006: shadow
+    2300000: body
+    2300002: brake
+    2300004: brakeDisk1
+    2300006: brakeDisk1 1
+    2300008: driverDoor
+    2300010: groundPlane
+    2300012: hood
+    2300014: lHeadlight
+    2300016: passengerDoor
+    2300018: rHeadlight
+    2300020: shifter
+    2300022: slick1
+    2300024: slick2
+    2300026: undercarriage
+    2300028: wheel
+    2300030: wheel1
+    2300032: wheel1 1
+    2300034: wipers
+    3300000: body
+    3300002: brake
+    3300004: brakeDisk1
+    3300006: brakeDisk1 1
+    3300008: driverDoor
+    3300010: groundPlane
+    3300012: hood
+    3300014: lHeadlight
+    3300016: passengerDoor
+    3300018: rHeadlight
+    3300020: shifter
+    3300022: slick1
+    3300024: slick2
+    3300026: undercarriage
+    3300028: wheel
+    3300030: wheel1
+    3300032: wheel1 1
+    3300034: wipers
+    4300000: body
+    4300002: brake
+    4300004: shifter
+    4300006: wheel
+    4300008: driverDoor
+    4300010: passengerDoor
+    4300012: hood
+    4300014: wipers
+    4300016: undercarriage
+    4300018: lHeadlight
+    4300020: rHeadlight
+    4300022: slick2
+    4300024: slick1
+    4300026: wheel1
+    4300028: brakeDisk1
+    4300030: wheel1
+    4300032: brakeDisk1
+    4300034: groundPlane
+    7400000: Take 001
+    7400002: Take 001 (1)
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 285
+      lastFrame: 321
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (1)
+      takeName: Take 001
+      firstFrame: 582
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

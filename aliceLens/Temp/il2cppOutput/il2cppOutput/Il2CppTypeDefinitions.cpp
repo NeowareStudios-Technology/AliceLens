@@ -20257,6 +20257,7 @@ extern const RuntimeType Vector3U5BU5D_t1718750761_1_0_2 = { (void*)&Vector3_t37
 
 extern const RuntimeType MaterialU5BU5D_t561872642_0_0_0 = { (void*)&Material_t340375123_0_0_0, 0, IL2CPP_TYPE_SZARRAY, 0, 0, 0 };
 extern const RuntimeType MaterialU5BU5D_t561872642_0_0_1 = { (void*)&Material_t340375123_0_0_0, 1, IL2CPP_TYPE_SZARRAY, 0, 0, 0 };
+extern const RuntimeType MaterialU5BU5D_t561872642_0_0_6 = { (void*)&Material_t340375123_0_0_0, 6, IL2CPP_TYPE_SZARRAY, 0, 0, 0 };
 
 extern const RuntimeType ShadowCastingMode_t2280965600_0_0_0 = { (void*)1436, 0, IL2CPP_TYPE_VALUETYPE, 0, 0, 0 };
 extern const RuntimeType ShadowCastingMode_t2280965600_1_0_0 = { (void*)1436, 0, IL2CPP_TYPE_VALUETYPE, 0, 1, 0 };
@@ -23659,6 +23660,9 @@ extern const RuntimeType AugmentationObjectU5BU5D_t3335461129_0_0_6 = { (void*)&
 extern const RuntimeType CloudTrackableEventHandler_t3114687801_0_0_0 = { (void*)2605, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
 extern const RuntimeType CloudTrackableEventHandler_t3114687801_1_0_0 = { (void*)2605, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
 
+extern const RuntimeType DefaultTrackableEventHandler_t1588957064_0_0_0 = { (void*)2636, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
+extern const RuntimeType DefaultTrackableEventHandler_t1588957064_1_0_0 = { (void*)2636, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
+
 extern const RuntimeType RotateAroundCylinder_t3605000179_0_0_0 = { (void*)2606, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
 extern const RuntimeType RotateAroundCylinder_t3605000179_1_0_0 = { (void*)2606, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
 
@@ -23740,11 +23744,14 @@ extern const RuntimeType MenuItem_t4061609034_0_0_32854 = { (void*)2633, 32854, 
 extern const RuntimeType SamplesNavigationHandler_t3426315339_0_0_0 = { (void*)2634, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
 extern const RuntimeType SamplesNavigationHandler_t3426315339_1_0_0 = { (void*)2634, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
 
-extern const RuntimeType SceneSwitchers_t1869753645_0_0_0 = { (void*)2635, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
-extern const RuntimeType SceneSwitchers_t1869753645_1_0_0 = { (void*)2635, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
+extern const RuntimeType ColorPicker_t228004619_0_0_0 = { (void*)2635, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
+extern const RuntimeType ColorPicker_t228004619_1_0_0 = { (void*)2635, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
 
-extern const RuntimeType URL_t2492693491_0_0_0 = { (void*)2636, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
-extern const RuntimeType URL_t2492693491_1_0_0 = { (void*)2636, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
+extern const RuntimeType SceneSwitchers_t1869753645_0_0_0 = { (void*)2637, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
+extern const RuntimeType SceneSwitchers_t1869753645_1_0_0 = { (void*)2637, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
+
+extern const RuntimeType URL_t2492693491_0_0_0 = { (void*)2638, 0, IL2CPP_TYPE_CLASS, 0, 0, 0 };
+extern const RuntimeType URL_t2492693491_1_0_0 = { (void*)2638, 0, IL2CPP_TYPE_CLASS, 0, 1, 0 };
 
 Il2CppGenericClass IComparer_1_t884274696_GenericClass = { 172, { &GenInst_DefaultComparer_t3277344064_gp_0_0_0_0, NULL }, NULL };
 extern const RuntimeType IComparer_1_t884274696_0_0_0 = { &IComparer_1_t884274696_GenericClass, 0, IL2CPP_TYPE_GENERICINST, 0, 0, 0 };
@@ -23787,7 +23794,7 @@ extern const RuntimeType DataSetTrackableBehaviourU5BU5D_t3869981418_0_0_0 = { (
 extern const RuntimeType ITrackingHandlerU5BU5D_t3758023570_0_0_0 = { (void*)&ITrackingHandler_t1244553475_0_0_0, 0, IL2CPP_TYPE_SZARRAY, 0, 0, 0 };
 
 extern const RuntimeType TrackableBehaviourU5BU5D_t1497733925_0_0_0 = { (void*)&TrackableBehaviour_t1113559212_0_0_0, 0, IL2CPP_TYPE_SZARRAY, 0, 0, 0 };
-extern const RuntimeType* const  g_Il2CppTypeTable[11988] = 
+extern const RuntimeType* const  g_Il2CppTypeTable[11993] = 
 {
 	&IEnumerator_1_t3512676632_0_0_0,
 	&RuntimeObject_0_0_0,
@@ -35597,6 +35604,7 @@ extern const RuntimeType* const  g_Il2CppTypeTable[11988] =
 	&AugmentationObject_t2828690840_1_0_0,
 	&CloudTrackableEventHandler_t3114687801_0_0_0,
 	&CloudTrackableEventHandler_t3114687801_1_0_0,
+	&DefaultTrackableEventHandler_t1588957064_0_0_0,
 	&CloudContentManager_t219274309_0_0_1,
 	&RotateAroundCylinder_t3605000179_0_0_0,
 	&RotateAroundCylinder_t3605000179_1_0_0,
@@ -35696,6 +35704,10 @@ extern const RuntimeType* const  g_Il2CppTypeTable[11988] =
 	&MenuItem_t4061609034_0_0_32854,
 	&SamplesNavigationHandler_t3426315339_0_0_0,
 	&SamplesNavigationHandler_t3426315339_1_0_0,
+	&ColorPicker_t228004619_0_0_0,
+	&ColorPicker_t228004619_1_0_0,
+	&MaterialU5BU5D_t561872642_0_0_6,
+	&DefaultTrackableEventHandler_t1588957064_1_0_0,
 	&SceneSwitchers_t1869753645_0_0_0,
 	&SceneSwitchers_t1869753645_1_0_0,
 	&URL_t2492693491_0_0_0,

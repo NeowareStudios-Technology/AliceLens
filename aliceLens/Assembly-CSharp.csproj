@@ -155,15 +155,17 @@
     <Compile Include="Assets\SamplesResources\SceneAssets\VuMark\Scripts\VuMarkTrackableEventHandler.cs" />
     <Compile Include="Assets\SamplesResources\VuforiaSamplesUI\Scripts\SamplesMainMenu.cs" />
     <Compile Include="Assets\SamplesResources\VuforiaSamplesUI\Scripts\SamplesNavigationHandler.cs" />
+    <Compile Include="Assets\Scripts\ColorPicker.cs" />
+    <Compile Include="Assets\Scripts\DefaultTrackableEventHandler.cs" />
     <Compile Include="Assets\Scripts\SceneSwitchers.cs" />
     <Compile Include="Assets\Scripts\URL.cs" />
     <None Include="Assets\LeanTouch\Examples\Fonts\OFL.txt" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\SamplesResources\SceneAssets\VirtualButtons\Shaders\Gradient.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\Demo_Application.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
-    <None Include="Assets\StreamingAssets\Vuforia\LeapWithAliceDemo.xml" />
     <None Include="Assets\LeanPool\Examples\Fonts\OFL.txt" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
@@ -171,26 +173,29 @@
     <None Include="Assets\LeanPool\Examples\Shaders\Skybox.shader" />
     <None Include="Assets\LeanTouch\Examples\Shaders\Smooth.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\LeapWithAliceDemo.xml" />
     <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
     <None Include="Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
     <None Include="Assets\SamplesResources\SceneAssets\ModelTargets\Shaders\RadialTexture.shader" />
     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\PolyBlox.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
+    <None Include="Assets\3D Models\PolyBlox\Rhino\Licence.txt" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/leapwithalice/Desktop/aliceLens/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/leapwithalice/Documents/GitHub/AliceLens/aliceLens/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/leapwithalice/Desktop/aliceLens/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/leapwithalice/Documents/GitHub/AliceLens/aliceLens/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/leapwithalice/Desktop/aliceLens/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/leapwithalice/Documents/GitHub/AliceLens/aliceLens/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/leapwithalice/Desktop/aliceLens/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/leapwithalice/Documents/GitHub/AliceLens/aliceLens/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/2018.2.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

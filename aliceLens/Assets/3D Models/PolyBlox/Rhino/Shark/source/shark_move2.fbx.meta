@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 6bc7a1aee0ac749a688c5384c9456a48
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B_tail_JNT1
+    100002: B_tail_JNT2
+    100004: bodyGEO
+    100006: D_Tail_CTL1
+    100008: dorsalJNT
+    100010: dorsalJNT2
+    100012: eyeGEO
+    100014: Head_CTL
+    100016: headJNT
+    100018: Hull_CTL
+    100020: JawJNT
+    100022: JawTipJTN
+    100024: L_Fin_CTL
+    100026: L_Fin_CTL2
+    100028: L_finJNT
+    100030: L_finJNT2
+    100032: L_finJNT3
+    100034: littleFinsGEO
+    100036: noseJNT
+    100038: nurbsCircle1
+    100040: R_Fin_CTL
+    100042: R_Fin_CTL2
+    100044: R_finJNT
+    100046: R_finJNT2
+    100048: R_finJNT3
+    100050: Shark_GEO_GRP
+    100052: //RootNode
+    100054: Spine1_CTL
+    100056: Spine2_CTL
+    100058: Spine3_CTL
+    100060: Spine4_CTL
+    100062: Spine5_CTL
+    100064: spineJNT
+    100066: spineJNT2
+    100068: spineJNT3
+    100070: spineJNT4
+    100072: spineJNT5
+    100074: spineJNT6
+    100076: tail_JNT1
+    100078: tail_JNT2
+    100080: tail_JNT3
+    100082: teethGEO
+    100084: U_Tail_CTL1
+    100086: U_Tail_CTL2
+    400000: B_tail_JNT1
+    400002: B_tail_JNT2
+    400004: bodyGEO
+    400006: D_Tail_CTL1
+    400008: dorsalJNT
+    400010: dorsalJNT2
+    400012: eyeGEO
+    400014: Head_CTL
+    400016: headJNT
+    400018: Hull_CTL
+    400020: JawJNT
+    400022: JawTipJTN
+    400024: L_Fin_CTL
+    400026: L_Fin_CTL2
+    400028: L_finJNT
+    400030: L_finJNT2
+    400032: L_finJNT3
+    400034: littleFinsGEO
+    400036: noseJNT
+    400038: nurbsCircle1
+    400040: R_Fin_CTL
+    400042: R_Fin_CTL2
+    400044: R_finJNT
+    400046: R_finJNT2
+    400048: R_finJNT3
+    400050: Shark_GEO_GRP
+    400052: //RootNode
+    400054: Spine1_CTL
+    400056: Spine2_CTL
+    400058: Spine3_CTL
+    400060: Spine4_CTL
+    400062: Spine5_CTL
+    400064: spineJNT
+    400066: spineJNT2
+    400068: spineJNT3
+    400070: spineJNT4
+    400072: spineJNT5
+    400074: spineJNT6
+    400076: tail_JNT1
+    400078: tail_JNT2
+    400080: tail_JNT3
+    400082: teethGEO
+    400084: U_Tail_CTL1
+    400086: U_Tail_CTL2
+    2100000: surfaceShader3
+    4300000: bodyGEO
+    4300002: eyeGEO
+    4300004: teethGEO
+    4300006: littleFinsGEO
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bodyGEO
+    13700002: eyeGEO
+    13700004: littleFinsGEO
+    13700006: teethGEO
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

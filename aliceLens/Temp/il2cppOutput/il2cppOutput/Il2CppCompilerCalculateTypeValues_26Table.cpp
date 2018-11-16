@@ -82,6 +82,8 @@ struct MaterialU5BU5D_t561872642;
 struct MeshRenderer_t587009260;
 // UnityEngine.RectTransform
 struct RectTransform_t3704657025;
+// UnityEngine.Renderer
+struct Renderer_t2627027031;
 // UnityEngine.Renderer[]
 struct RendererU5BU5D_t3210418286;
 // UnityEngine.Sprite
@@ -1669,8 +1671,60 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // CLOUDCONTENTMANAGER_T219274309_H
-#ifndef DEFAULTTRACKABLEEVENTHANDLER_T1588957063_H
-#define DEFAULTTRACKABLEEVENTHANDLER_T1588957063_H
+#ifndef COLORPICKER_T228004619_H
+#define COLORPICKER_T228004619_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// ColorPicker
+struct  ColorPicker_t228004619  : public MonoBehaviour_t3962482529
+{
+public:
+	// UnityEngine.Material[] ColorPicker::BodyColorMat
+	MaterialU5BU5D_t561872642* ___BodyColorMat_4;
+	// UnityEngine.Material ColorPicker::CurrMat
+	Material_t340375123 * ___CurrMat_5;
+	// UnityEngine.Renderer ColorPicker::renderer
+	Renderer_t2627027031 * ___renderer_6;
+
+public:
+	inline static int32_t get_offset_of_BodyColorMat_4() { return static_cast<int32_t>(offsetof(ColorPicker_t228004619, ___BodyColorMat_4)); }
+	inline MaterialU5BU5D_t561872642* get_BodyColorMat_4() const { return ___BodyColorMat_4; }
+	inline MaterialU5BU5D_t561872642** get_address_of_BodyColorMat_4() { return &___BodyColorMat_4; }
+	inline void set_BodyColorMat_4(MaterialU5BU5D_t561872642* value)
+	{
+		___BodyColorMat_4 = value;
+		Il2CppCodeGenWriteBarrier((&___BodyColorMat_4), value);
+	}
+
+	inline static int32_t get_offset_of_CurrMat_5() { return static_cast<int32_t>(offsetof(ColorPicker_t228004619, ___CurrMat_5)); }
+	inline Material_t340375123 * get_CurrMat_5() const { return ___CurrMat_5; }
+	inline Material_t340375123 ** get_address_of_CurrMat_5() { return &___CurrMat_5; }
+	inline void set_CurrMat_5(Material_t340375123 * value)
+	{
+		___CurrMat_5 = value;
+		Il2CppCodeGenWriteBarrier((&___CurrMat_5), value);
+	}
+
+	inline static int32_t get_offset_of_renderer_6() { return static_cast<int32_t>(offsetof(ColorPicker_t228004619, ___renderer_6)); }
+	inline Renderer_t2627027031 * get_renderer_6() const { return ___renderer_6; }
+	inline Renderer_t2627027031 ** get_address_of_renderer_6() { return &___renderer_6; }
+	inline void set_renderer_6(Renderer_t2627027031 * value)
+	{
+		___renderer_6 = value;
+		Il2CppCodeGenWriteBarrier((&___renderer_6), value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // COLORPICKER_T228004619_H
+#ifndef DEFAULTTRACKABLEEVENTHANDLER_T1588957064_H
+#define DEFAULTTRACKABLEEVENTHANDLER_T1588957064_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1678,7 +1732,7 @@ public:
 #endif
 
 // DefaultTrackableEventHandler
-struct  DefaultTrackableEventHandler_t1588957063  : public MonoBehaviour_t3962482529
+struct  DefaultTrackableEventHandler_t1588957064  : public MonoBehaviour_t3962482529
 {
 public:
 	// Vuforia.TrackableBehaviour DefaultTrackableEventHandler::mTrackableBehaviour
@@ -1689,7 +1743,7 @@ public:
 	int32_t ___m_NewStatus_6;
 
 public:
-	inline static int32_t get_offset_of_mTrackableBehaviour_4() { return static_cast<int32_t>(offsetof(DefaultTrackableEventHandler_t1588957063, ___mTrackableBehaviour_4)); }
+	inline static int32_t get_offset_of_mTrackableBehaviour_4() { return static_cast<int32_t>(offsetof(DefaultTrackableEventHandler_t1588957064, ___mTrackableBehaviour_4)); }
 	inline TrackableBehaviour_t1113559212 * get_mTrackableBehaviour_4() const { return ___mTrackableBehaviour_4; }
 	inline TrackableBehaviour_t1113559212 ** get_address_of_mTrackableBehaviour_4() { return &___mTrackableBehaviour_4; }
 	inline void set_mTrackableBehaviour_4(TrackableBehaviour_t1113559212 * value)
@@ -1698,7 +1752,7 @@ public:
 		Il2CppCodeGenWriteBarrier((&___mTrackableBehaviour_4), value);
 	}
 
-	inline static int32_t get_offset_of_m_PreviousStatus_5() { return static_cast<int32_t>(offsetof(DefaultTrackableEventHandler_t1588957063, ___m_PreviousStatus_5)); }
+	inline static int32_t get_offset_of_m_PreviousStatus_5() { return static_cast<int32_t>(offsetof(DefaultTrackableEventHandler_t1588957064, ___m_PreviousStatus_5)); }
 	inline int32_t get_m_PreviousStatus_5() const { return ___m_PreviousStatus_5; }
 	inline int32_t* get_address_of_m_PreviousStatus_5() { return &___m_PreviousStatus_5; }
 	inline void set_m_PreviousStatus_5(int32_t value)
@@ -1706,7 +1760,7 @@ public:
 		___m_PreviousStatus_5 = value;
 	}
 
-	inline static int32_t get_offset_of_m_NewStatus_6() { return static_cast<int32_t>(offsetof(DefaultTrackableEventHandler_t1588957063, ___m_NewStatus_6)); }
+	inline static int32_t get_offset_of_m_NewStatus_6() { return static_cast<int32_t>(offsetof(DefaultTrackableEventHandler_t1588957064, ___m_NewStatus_6)); }
 	inline int32_t get_m_NewStatus_6() const { return ___m_NewStatus_6; }
 	inline int32_t* get_address_of_m_NewStatus_6() { return &___m_NewStatus_6; }
 	inline void set_m_NewStatus_6(int32_t value)
@@ -1718,7 +1772,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // DEFAULTTRACKABLEEVENTHANDLER_T1588957063_H
+#endif // DEFAULTTRACKABLEEVENTHANDLER_T1588957064_H
 #ifndef FADEOBJECT_T1880495183_H
 #define FADEOBJECT_T1880495183_H
 #ifdef __clang__
@@ -3289,7 +3343,7 @@ public:
 #endif
 
 // CloudTrackableEventHandler
-struct  CloudTrackableEventHandler_t3114687801  : public DefaultTrackableEventHandler_t1588957063
+struct  CloudTrackableEventHandler_t3114687801  : public DefaultTrackableEventHandler_t1588957064
 {
 public:
 	// Vuforia.CloudRecoBehaviour CloudTrackableEventHandler::m_CloudRecoBehaviour
@@ -3330,7 +3384,7 @@ public:
 #endif
 
 // MultiTargetTrackableEventHandler
-struct  MultiTargetTrackableEventHandler_t2385314859  : public DefaultTrackableEventHandler_t1588957063
+struct  MultiTargetTrackableEventHandler_t2385314859  : public DefaultTrackableEventHandler_t1588957064
 {
 public:
 	// UnityEngine.Animator MultiTargetTrackableEventHandler::astronaut
@@ -3360,7 +3414,7 @@ public:
 #endif
 
 // ObjectRecoTrackableEventHandler
-struct  ObjectRecoTrackableEventHandler_t3092838920  : public DefaultTrackableEventHandler_t1588957063
+struct  ObjectRecoTrackableEventHandler_t3092838920  : public DefaultTrackableEventHandler_t1588957064
 {
 public:
 	// UnityEngine.Animator ObjectRecoTrackableEventHandler::m_Habitat
@@ -3401,7 +3455,7 @@ public:
 #endif
 
 // VideoTrackableEventHandler
-struct  VideoTrackableEventHandler_t944783369  : public DefaultTrackableEventHandler_t1588957063
+struct  VideoTrackableEventHandler_t944783369  : public DefaultTrackableEventHandler_t1588957064
 {
 public:
 
@@ -3421,7 +3475,7 @@ public:
 #endif
 
 // VuMarkTrackableEventHandler
-struct  VuMarkTrackableEventHandler_t4082851918  : public DefaultTrackableEventHandler_t1588957063
+struct  VuMarkTrackableEventHandler_t4082851918  : public DefaultTrackableEventHandler_t1588957064
 {
 public:
 	// Vuforia.VuMarkBehaviour VuMarkTrackableEventHandler::vumarkBehaviour
@@ -3815,8 +3869,22 @@ extern const int32_t g_FieldOffsetTable2634[1] =
 {
 	SamplesNavigationHandler_t3426315339::get_offset_of_currentSceneName_4(),
 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize2635 = { sizeof (SceneSwitchers_t1869753645), -1, 0, 0 };
-extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize2636 = { sizeof (URL_t2492693491), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize2635 = { sizeof (ColorPicker_t228004619), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable2635[3] = 
+{
+	ColorPicker_t228004619::get_offset_of_BodyColorMat_4(),
+	ColorPicker_t228004619::get_offset_of_CurrMat_5(),
+	ColorPicker_t228004619::get_offset_of_renderer_6(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize2636 = { sizeof (DefaultTrackableEventHandler_t1588957064), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable2636[3] = 
+{
+	DefaultTrackableEventHandler_t1588957064::get_offset_of_mTrackableBehaviour_4(),
+	DefaultTrackableEventHandler_t1588957064::get_offset_of_m_PreviousStatus_5(),
+	DefaultTrackableEventHandler_t1588957064::get_offset_of_m_NewStatus_6(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize2637 = { sizeof (SceneSwitchers_t1869753645), -1, 0, 0 };
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize2638 = { sizeof (URL_t2492693491), -1, 0, 0 };
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif

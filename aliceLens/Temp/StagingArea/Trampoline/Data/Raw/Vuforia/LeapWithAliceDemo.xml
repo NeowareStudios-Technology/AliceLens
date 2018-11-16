@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="SiddurBackCover" size="1.000000 1.624365" />
-    <ImageTarget name="SiddurCover" size="1.000000 1.608040" />
+    <ImageTarget name="Hotel_Poster" size="0.125000 0.161820" />
+    <ImageTarget name="bike_illustration" size="1.000000 0.755556" />
+    <ImageTarget name="SaltofHeaven3" size="1.000000 1.333333" />
+    <ImageTarget name="SaltofHeaven2" size="1.000000 1.333333" />
+    <ImageTarget name="SaltofHeaven1" size="1.000000 1.333333" />
     <ImageTarget name="Montessorilogo" size="1.000000 0.182266" />
     <ImageTarget name="UCF_Logo5" size="1.000000 0.999237" />
     <ImageTarget name="UCF_Logo4" size="1.000000 0.614045" />
