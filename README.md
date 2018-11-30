@@ -9,10 +9,6 @@
 
 # How It Works
 
-**- Once the application is installed on the device the user simply opens the application and completes the one-time signup.**
-
-<a href="https://imgflip.com/gif/2c7itk"><img src="https://i.imgflip.com/2c7itk.gif" title="made at imgflip.com"/></a>
-
 **- In the bottom left you will see two buttons. One to take you to our website and one for more information on the application.**
 
 <a href="https://imgflip.com/gif/2c7ixt"><img src="https://i.imgflip.com/2c7ixt.gif" title="made at imgflip.com"/></a>
