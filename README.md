@@ -1,41 +1,87 @@
-# AliceLens™
-  The AliceLens™ application is an iOS & Android build using emerging technologies. Within this application there is a focus on augmented reality using target based tracking. Through use cases within the application, we show off a new way of learning.
-  
-# AliceLens™ Targets
-  In order to experience the augmented reality within the application, please check out this link to download the image targets. Once downloaded then point the AliceLens™ application at the image target.
-     
-   <a href="https://www.dropbox.com/sh/qfm3znk51hxiahv/AADVj2R5X70regY0sAumopdVa?dl=0" title="Image Targets Link"/>Image Targets</a>
-     
+# Project Title
 
-# How It Works
+One Paragraph of project description goes here
 
-**- In the bottom left you will see two buttons. One to take you to our website and one for more information on the application.**
+## Getting Started
 
-<a href="https://imgflip.com/gif/2c7ixt"><img src="https://i.imgflip.com/2c7ixt.gif" title="made at imgflip.com"/></a>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-**- Grab the targets you downloaded from the dropbox link and point the AliceLens™ at it. Depending on which target you are pointing at you see a few different AR experiences.**
+### Prerequisites
 
-<a href="https://imgflip.com/gif/2c7imr"><img src="https://i.imgflip.com/2c7imr.gif" title="made at imgflip.com"/></a>
+What things you need to install the software and how to install them
 
-# Technologies Used
+```
+Give examples
+```
 
-### Vuforia
+### Installing
 
-```Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile devices that enables the creation of Augmented Reality applications. It uses Computer Vision technology to recognize and track planar images (Image Targets) and simple 3D objects, such as boxes, in real-time. This image registration capability enables developers to position and orient virtual objects, such as 3D models and other media, in relation to real world images when these are viewed through the camera of a mobile device.```
+A step by step series of examples that tell you how to get a development env running
 
-### Unity 3D
+Say what the step will be
 
-```Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop both three-dimensional and two-dimensional video games and simulations for computers, consoles, and mobile devices.```
+```
+Give the example
+```
 
+And repeat
 
-## Where Can You Find Us?
+```
+until finished
+```
 
-* [Webpage](https://leapwithalice.io)
-* [Alice iOS App](https://itunes.apple.com/us/app/leap-with-alice/id1369587027?platform=iphone&preserveScrollPosition=true&platform=iphone&platform=iphone&platform=iphone#platform/iphone&platform=iphone&platform=iphone&platform=iphone)
-* [Alice Android App](https://play.google.com/store/apps/details?id=com.lwa.alicelens)
-* [Facebook](https://www.facebook.com/LeapWithAlice/?ref=br_rs)
-* [Twitter](https://twitter.com/LeapWithAlice) 
-* [Telegram](https://t.me/LWAlice)
-* [Youtube](https://www.youtube.com/channel/UCrrw59HelHtZcLsNwUMCsIA?view_as=subscriber) 
-* [Github](https://github.com/AlfonsoMorales/Leap-With-Alice-Demo)
-* [Medium](https://medium.com/@LeapWithAlice)
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
