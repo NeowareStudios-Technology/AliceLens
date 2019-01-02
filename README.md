@@ -10,14 +10,11 @@ The Alice Lens project is meant to be simple and easy to develop for. The abilit
 
 What things you need to install the software and how to install them
 
-**Unity 2018.2.15f1** - In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors. The simplest way to maintain multiple different versions of Unity is by having the program Unity Hub. All versions of Unity can be found at the following link to download: https://unity3d.com/get-unity/download/archive
+**Unity 2018.2.15f1** 
+>In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors. The simplest way to maintain multiple different versions of Unity is by having the program Unity Hub. All versions of Unity can be found at the following link to download: https://unity3d.com/get-unity/download/archive
 
-**Access to company Vuforia account** - This account is used to create a vuforia license to use Vuforia AR Framework. This is also how you input image targets to be rated for augmentable rating (Expresses quality of image target to track and stability) and to be downloaded to be put in the scene. If access is needed for Vuforia reach out to Lead Developer.
-
-
-
-
-
+**Access to company Vuforia account** 
+>This account is used to create a vuforia license to use Vuforia AR Framework. This is also how you input image targets to be rated for augmentable rating (Expresses quality of image target to track and stability) and to be downloaded to be put in the scene. If access is needed for Vuforia reach out to Lead Developer.
 
 ### Installing
 
