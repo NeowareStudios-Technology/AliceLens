@@ -1,18 +1,18 @@
-# Project Title
+# Alice Lens
 
-One Paragraph of project description goes here
+The Alice Lens application is built within Unity 2018.2.15f1 using the Vuforia Unity package for augmented reality image target detection and database. Within this latest version of the application there are multiple scenes that follow similar priciples in terms of what is within. These scenes contain augmentable videos, images, 3D models, button links, scene switchers, etc.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors.
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+
+In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors.
+
 
 ### Installing
 
