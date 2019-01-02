@@ -4,27 +4,28 @@ The Alice Lens application is built within Unity 2018.2.15f1 using the Vuforia U
 
 ## Getting Started
 
-In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors.
+The Alice Lens project is meant to be simple and easy to develop for. The ability to add and remove AR content has been simplified to the point of copy & paste and drag & drop. If there are any additional pieces that you believe should be added to this readme, reach out with suggested additions/changes to better enhance the documentation. 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
+**Unity 2018.2.15f1** - In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors. The simplest way to maintain multiple different versions of Unity is by having the program Unity Hub. All versions of Unity can be found at the following link to download: https://unity3d.com/get-unity/download/archive
 
-In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors.
+**Access to company Vuforia account** - This account is used to create a vuforia license to use Vuforia AR Framework. This is also how you input image targets to be rated for augmentable rating (Expresses quality of image target to track and stability) and to be downloaded to be put in the scene. If access is needed for Vuforia reach out to Lead Developer.
+
+
+
+
 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Simply pull the repo into Github desktop to keep track of the most up to date pulls and make your own pushes. Github best practices to follow are coming soon and will be linked here. 
 
-Say what the step will be
+Once you have the project downloaded and the proper Unity version installed open the project and all parts of the project should be accurate in terms of UI, functioanlity, UI, etc.
 
-```
-Give the example
-```
 
-And repeat
 
 ```
 until finished
@@ -58,17 +59,19 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Note: This GitHub Repo ReadMe was created with the intended purposes of giving the developer insight on the current build as is. It is not a replacement for understanding Unity, Vuforia, Invision, Github Desktop, and Unity Hub. 
 
-## Contributing
+Documentations for these items can be found here:
+* [Unity](https://docs.unity3d.com/Manual/index.html) - The web framework used
+* [Vuforia](https://docs.unity3d.com/Manual/index.html) - Dependency Management
+* [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedUnityHub.html) - Used to generate RSS Feeds
+* [Github Desktop](https://docs.unity3d.com/Manual/GettingStartedUnityHub.html) - Used to generate RSS Feeds
+* [Invision](https://support.invisionapp.com/hc/en-us) - Used to generate RSS Feeds
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use Github for versioning. For the versions available, see the Alice Lens Respository (https://github.com/LeapWithAlice/AliceLens). 
 
 ## Authors
 
@@ -78,10 +81,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is private and not to be shared outside of internal use.
 
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
+* Alfonso Morales, Lee Ramirez, Daniel Roach
 * etc
