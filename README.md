@@ -11,7 +11,7 @@ The Alice Lens project is meant to be simple and easy to develop for. The abilit
 What things you need to install the software and how to install them
 
 **Unity 2018.2.15f1** 
->In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors. The simplest way to maintain multiple different versions of Unity is by having the program Unity Hub. All versions of Unity can be found at the following link to download: https://unity3d.com/get-unity/download/archive
+>In order to open the project make sure you are on the same version of Unity (2018.2.15f1) for the most seamless experience. If using another Unity version you run the risk ok prefabs beging broken, missing scripts, and other errors. The simplest way to maintain multiple different versions of Unity is by having the program Unity Hub. All versions of Unity can be found at the following link to download: [Unity Archive](https://unity3d.com/get-unity/download/archive)
 
 **Access to company Vuforia account** 
 >This account is used to create a vuforia license to use Vuforia AR Framework. This is also how you input image targets to be rated for augmentable rating (Expresses quality of image target to track and stability) and to be downloaded to be put in the scene. If access is needed for Vuforia reach out to Lead Developer.
@@ -22,15 +22,34 @@ Simply pull the repo into Github desktop to keep track of the most up to date pu
 
 Once you have the project downloaded and the proper Unity version installed open the project and all parts of the project should be accurate in terms of UI, functioanlity, UI, etc.
 
+## Inside the project
 
+Within this build you will find multiple scenes, scripts, and UI assets. These are listed below:
 
-```
-until finished
-```
+**Scenes:**
 
-End with an example of getting some data out of the system or using it for a little demo
+> **Alice Lens:** Flagship main demo application to show of image recognition augmented reality.
 
-## Running the tests
+> **Hillel:** Created for Hillel Hebrew Academy.
+
+> **Larry:** Created as a one off lens for a demo.
+
+> **Montessori:** Created to show off AR to parents looking into Montessori education.
+
+> **Opening:** This scene was put in for instances when the application is too large for android and needs to be built as a split binary. Their is a script within the scene that can be edited to load in the content needed for the split binary, but the script must be in the scene prior to the one you want to have the active content in, hence the opening scene prior to the alice scene appearing.
+
+> **OTB_AR:** Created for the OTB platform as an AR counterpart to be shown off. Now is going to serve as the lens for the UCF recruiting mailouts.
+
+> **OTB_Home:** Initial opening screen of the OTB_AR app. This screen lets users choose between opening the AR portion of the app or open up the OTB platform website within the application.
+
+> **Paving The Way:** Created as a lens for the non-profit organization Paving the Way. 
+
+> **PolyBlox:** Created as a lens for the educational toy PolyBlox.
+
+> **Salt of Heaven:** Created as a lens for Salt of Heaven, an organization and non-profit.
+
+> **UCF:** Created as a lens to show off AR on UCF logos.
+
 
 Explain how to run the automated tests for this system
 
