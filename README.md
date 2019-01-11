@@ -89,12 +89,6 @@ Documentations for these items can be found here:
 
 We use Github for versioning. For the versions available, see the Alice Lens Respository (https://github.com/LeapWithAlice/AliceLens). 
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is private and not to be shared outside of internal use.
