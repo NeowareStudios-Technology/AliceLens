@@ -51,27 +51,19 @@ Within this build you will find multiple scenes, scripts, and UI assets. These a
 > **UCF:** Created as a lens to show off AR on UCF logos.
 
 
-Explain how to run the automated tests for this system
+## Scripts
 
-### Break down into end to end tests
+The following scripts are found in the Lens project
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+> **AndroidSplitLoadFirstScene:** This is a script attached to the first scene loaded before the AR Scene is opened. This loads in the Vuforia AR database
+> **Auto Rotate:** This script can be applied to objects in the scene to auto-rotate.
+> **ColorPicker:** This is a simple script that allows users to choose between colors for an object in the scene.
+> **DefaultTrackableEventHandler:** Vuforia created script for tracking of image targets.
+> **ObbExtractor:** This extractor is used to extract and load in the Vuforia AR database files for Android split binary builds 
+> **PlayerTrackableEventHandler:** Vuforia created script for tracking of image targets.
+> **SceneSwitchers:** This script allows for the ability to switch between specified scenes
+> **Sharing:** This script allows for native sharing on iOS and Android when the button is attached to is tapped. Can only be tested on iOS and Android devices, not in the Unity Editor. This script is dependent on the Native Share plugin folder within the app.
+> **URL:** Allows for creating links to open urls, call phone numbers, send emails, facebook links, youtube links, twitter links.
 
 ## Built With
 
